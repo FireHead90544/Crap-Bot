@@ -1,0 +1,33 @@
+{
+  "intents": [
+    {
+      "tag": "label_name",
+      "patterns": [
+        "The model will look for these patterns in the input.",
+        "You can add as many patterns as you want.",
+        "Don't make them too similar to prevent overfitting of data.",
+        "Don't try to confuse the model by adding similar patterns with different tags as it will result in loss of accuracy."
+      ],
+      "responses": [
+        "These can be the responses which the bot will result if the input relates to the pattern.",
+        "A random response will be returned from the list of responses.",
+        "You can add as many responses as you want.",
+        "Just keep a single response in the list if you want to return a single response every time."
+      ]
+    },
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hello.",
+        "Hi There!",
+        "Sup?",
+        "What's up?"
+      ],
+      "responses": [
+        "Hi, how can I help you?",
+        "Hello, how are you doing today?",
+        "Nice to meet you."
+      ]
+    }
+  ]
+}
