@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Dataset Files
+train_data.json
+
 # Model Files
 *.h5
 
