@@ -2,15 +2,7 @@
 A deep learning-powered chatbot written in python which just works.
 
 ## About
-An open source release of the chat bot based on the Sequential deep learing model we created to be deployed on our [college's website](https://ittanakpur.ac.in/) which itself need and is getting serious updates pretty soon. It was named Crap-Bot because why not? Because, we just felt like doing that, no definite reasons, we just felt good, no good lying.
-
-## Developers
-- [Rudransh Joshi](https://github.com/FireHead90544) - [B.Tech 1st Year (AI/ML)] - Core Developer & Dataset Collection
-- [Uttam Tiwari](#) - [B.Tech 1st Year (CSE)] - Dataset Collection & Training
-- [Neha Kumari](#) - [B.Tech 1st Year (CSE)] - Dataset Collection & Bug Testing
-- [Rahul Verma](#) - [B.Tech 1st Year (CSE)] - Bug Testing & Frontend Development
-
-The bot will soon be deployed on our college's website and will be available for everyone to use.
+An open source release of the chat bot based on the Sequential deep learing model created to be deployed on a [college's website](https://ittanakpur.ac.in/). It was named Crap-Bot because why not? Because, we just felt like doing that, no definite reasons, we just felt good, no good lying.
 
 ## Usage
 To use this bot, you need to have python3 installed on your system. This bot was created and tested against python 3.11.0, but it should work with any python 3 version. Follow the instructions below to get started.
